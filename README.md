@@ -1,1 +1,3 @@
 # adventsofcode2022
+
+My code to solve the challenges, let's see how far I can hang on (in?) this year...
